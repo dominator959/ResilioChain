@@ -1,0 +1,4 @@
+supplier_id,name,lead_time_days,reliability
+S001,AsiaTech Imports,14,0.92
+S002,EuroGoods Ltd,7,0.97
+S003,LocalFast Supply Co,3,0.99
