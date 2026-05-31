@@ -11,7 +11,8 @@ Modern businesses lose billions due to **Stock-outs** (shelves going empty) and 
 ---
 
 ## 🏗️ Project Structure
-'''
+
+```
 ResilioChain/
 ├── src/
 │   ├── data_generator.py   # Phase 1 — Synthetic 365-day warehouse simulation
@@ -24,8 +25,7 @@ ResilioChain/
 ├── notebooks/              # Jupyter exploration
 ├── requirements.txt
 └── README.md
-
-'''
+```
 ---
 
 ## 🚀 Project Phases
