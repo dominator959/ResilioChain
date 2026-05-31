@@ -1,6 +1,6 @@
 product_id,name,category,unit_cost,unit_price,base_demand
-P001,Wireless Headphones,Electronics,45.0,89.99,22
-P002,Yoga Mat,Fitness,12.0,29.99,18
-P003,Stainless Water Bottle,Kitchen,8.0,19.99,30
-P004,Bluetooth Speaker,Electronics,30.0,59.99,15
-P005,Winter Jacket,Apparel,55.0,129.99,10
+P001,Wireless Headphones,Electronics,45,89.99,22
+P002,Yoga Mat,Fitness,12,29.99,18
+P003,Stainless Water Bottle,Kitchen,8,19.99,30
+P004,Bluetooth Speaker,Electronics,30,59.99,15
+P005,Winter Jacket,Apparel,55,129.99,10
