@@ -25,11 +25,13 @@ ResilioChain/
 │   ├── transactions.csv        # 1,825 rows — daily sales per product (cleaned)
 │   ├── inventory.csv           # 1,825 rows — daily stock levels per product
 │   ├── products.csv            # 5 rows — product reference table
-│   └── suppliers.csv           # 3 rows — supplier reference table
+│   └── suppliers.csv           # 3 rows — supplier reference table  # Transactions & Products EDA   # Inventory & Suppliers EDA
 ├── notebooks/
 │   └── eda/
-│       ├── session_2_eda_loading_and_inspection_part_A.ipynb   # Transactions & Products EDA
-│       └── session_2_eda_loading_and_inspection_part_B.ipynb   # Inventory & Suppliers EDA
+│       ├── session_2_eda_loading_and_inspection_part_A.ipynb        # Transactions & Products — loading, types, nulls, drops
+│       ├── session_2_eda_loading_and_inspection_part_B.ipynb        # Inventory & Suppliers — loading, types, nulls, drops
+│       ├── session_2_eda_grouping_and_aggregations_part_A.ipynb     # Transactions & Products — groupby, aggregations, trends
+│       └── session_2_eda_grouping_and_aggregations_part_B.ipynb     # Inventory & Suppliers — stockout rates, supplier performance
 ├── outputs/                    # Charts and analysis (generated)
 ├── requirements.txt
 └── README.md
